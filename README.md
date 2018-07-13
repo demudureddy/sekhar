@@ -1,2 +1,0 @@
-# sekhar
-## simple images
