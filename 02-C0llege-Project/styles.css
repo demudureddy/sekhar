@@ -1,0 +1,94 @@
+
+.main{
+    height: 300px;
+
+}
+.about{
+    overflow: hidden;
+}
+.about ul{
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px;
+}
+.about ul li{
+    float: left;
+}
+.about ul li{
+    text-decoration: none;
+    padding: 15px 40px;
+    font-size: 21px;
+    display: inline-block;
+}
+.about ul li a{
+    text-decoration: none;
+}
+.about ul a:hover{
+    background-color: red;
+    border-radius: 10px;
+}
+.navbar{
+    background-color: blue;
+    overflow: hidden;
+}
+.navbar ul{
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+.navbar ul li{
+    float: left;
+}
+.navbar ul li a{
+    text-decoration: none;
+    padding: 14px 40px;
+    color: white;
+    display: inline-block;
+}
+.navbar ul li a:hover{
+    background-color: lightblue;
+    color: blue;
+}
+.droupdown-list{
+    background-color: lightskyblue;
+    position: absolute;
+    display: none;
+}
+.droupdown-list a{
+    display: block;
+
+}
+.droupdown:hover .droupdown-list{
+    display: block;
+}
+h1{
+    text-align: center;
+}
+.principal-ug{
+    margin-left: 330px;
+}
+.dean{
+    margin-left: 330px;
+}
+.asst-dean{
+    margin-left: 330px;
+}
+.meter{
+    font-size: 20px;
+}
+.botany{
+    margin-left: 300px;
+}
+.contact{
+    margin-left: 220px;
+    font-size: 20px;
+}
+footer{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+
+
